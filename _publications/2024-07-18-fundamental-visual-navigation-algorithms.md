@@ -10,6 +10,8 @@ paperurl: 'https://arxiv.org/abs/2407.13535'
 citation: 'Govoni, P., Romanczuk, P. (2024). Fundamental Visual Navigation Algorithms: Indirect Sequential, Biased Diffusive, & Direct Pathing.'
 ---
 
+PhD Thesis - Part One.
+
 [Preprint](https://arxiv.org/abs/2407.13535)
 
 [Github Repo](https://github.com/pgovoni21/vis-nav-abm)

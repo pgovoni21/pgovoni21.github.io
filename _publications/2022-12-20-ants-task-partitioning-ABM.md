@@ -10,6 +10,8 @@ paperurl: 'https://www.nature.com/articles/s41598-022-26324-6'
 citation: 'Di Pietro, V., Govoni, P., Chan, K.H. <i>et al</i>. Evolution of self-organised division of labour driven by stigmergy in leaf-cutter ants. <i>Sci Rep</i> <b>12</b>, 21971 (2022). https://doi.org/10.1038/s41598-022-26324-6'
 ---
 
+Project stemming from a modeling course in my MSc program. 
+
 [Github Repo](https://github.com/pgovoni21/ants-task-partitioning-ABM)
 
 <b>Author:</b> Patrick Govoni & Kin Ho Chan
