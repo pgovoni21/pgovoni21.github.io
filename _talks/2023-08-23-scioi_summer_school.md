@@ -13,6 +13,7 @@ location: "Berlin, Germany"
 One of 5 invited student talks at a summer school. Mostly conceptual-minded + initial results.
 
 <b>Abstract:</b>
+
 Individual foraging strategy, comprising spatial navigation, memory, and decision-making, can be seen as
 a local solution to a common problem: acquiring patchily distributed resources in a dynamic environment.
 In an animal group, this computation increases in complexity, requiring an individual to sense both spatial
