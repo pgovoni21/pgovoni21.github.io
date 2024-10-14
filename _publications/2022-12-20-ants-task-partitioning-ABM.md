@@ -12,7 +12,11 @@ citation: 'Di Pietro, V., Govoni, P., Chan, K.H. <i>et al</i>. Evolution of self
 
 Project stemming from a modeling course in my MSc program. 
 
+<br/>
+
 [Github Repo](https://github.com/pgovoni21/ants-task-partitioning-ABM)
+
+<br/>
 
 <b>Author:</b> Patrick Govoni & Kin Ho Chan
 
