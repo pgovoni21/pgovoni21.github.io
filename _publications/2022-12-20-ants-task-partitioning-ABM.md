@@ -14,19 +14,15 @@ Project stemming from a modeling course in my MSc program. Agent-based model of 
 
 ![title_video](../images/ant_video.gif)
 
-<b>Author:</b> Patrick Govoni & Kin Ho Chan
-
-<b>Supervisor:</b> Piet Van Den Berg & Prof. Tom Wenseleers
-
-<b>Affiliation:</b> Department of Biology, KU Leuven
-
-<b>Group:</b> Lab of Socioecology & Social Evolution
-
+<b>Author:</b> Patrick Govoni & Kin Ho Chan <br>
+<b>Supervisor:</b> Piet Van Den Berg & Prof. Tom Wenseleers <br>
+<b>Affiliation:</b> Department of Biology, KU Leuven <br>
+<b>Group:</b> Lab of Socioecology & Social Evolution <br>
 <b>Years:</b> 2020-2022
 
 [Github Repo](https://github.com/pgovoni21/ants-task-partitioning-ABM)
 
-<img src="../images/ant_graph.png" width="500"/>
+<img src="../images/ant_graph.png" width="750"/>
 
 <b>Abstract:</b>
 

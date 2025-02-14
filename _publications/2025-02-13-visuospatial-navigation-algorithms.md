@@ -14,24 +14,16 @@ PhD Thesis - Part One. Visual-motor learning of artificial neural networks.
 
 <img src="../images/vis_flow.png" width="750"/>
 
-<b>Author:</b> Patrick Govoni
-
-<b>Supervisor:</b> Pawel Romanczuk
-
-<b>Affiliation:</b> Institute for Theoretical Biology, Humboldt Universität zu Berlin
-
-<b>Group:</b> Collective Information Processing Lab
-
+<b>Author:</b> Patrick Govoni <br>
+<b>Supervisor:</b> Pawel Romanczuk <br>
+<b>Affiliation:</b> Institute for Theoretical Biology, Humboldt Universität zu Berlin <br>
+<b>Group:</b> [Collective Information Processing Lab](http://lab.romanczuk.de/) <br>
 <b>Years:</b> 2023-Present
 
-[Preprint](https://arxiv.org/abs/2407.13535)
-
-[Github Repo](https://github.com/pgovoni21/vis-nav-abm)
-
-[Talk @ ScioI Summer School 2023](https://pgovoni21.github.io/talks/2023-08-23-scioi_summer_school)
-
-[Talk @ ALife 2024](https://pgovoni21.github.io/talks/2024-07-24-alife)
-
+[Preprint](https://arxiv.org/abs/2407.13535) <br>
+[Github Repo](https://github.com/pgovoni21/vis-nav-abm) <br>
+[Talk @ ScioI Summer School 2023](https://pgovoni21.github.io/talks/2023-08-23-scioi_summer_school) <br>
+[Talk @ ALife 2024](https://pgovoni21.github.io/talks/2024-07-24-alife) <br>
 [Extended Abstract @ ALife 2024](https://direct.mit.edu/isal/proceedings/isal2024/36/40/123487)
 
 <p float="left">

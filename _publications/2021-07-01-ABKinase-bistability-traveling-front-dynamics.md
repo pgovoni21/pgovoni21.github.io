@@ -14,14 +14,10 @@ Unpublished MSc Thesis. Reaction-diffusion-localization dynamical system.
 
 <img src="../images/ABK_fig.png" width="750"/>
 
-<b>Author:</b> Patrick Govoni
-
-<b>Supervisor:</b> Prof. Lendert Gelens
-
-<b>Affiliation:</b> Department of Cellular and Molecular Medicine, KU Leuven
-
-<b>Group:</b> Dynamics in Biological Systems
-
+<b>Author:</b> Patrick Govoni <br>
+<b>Supervisor:</b> Prof. Lendert Gelens <br>
+<b>Affiliation:</b> Department of Cellular and Molecular Medicine, KU Leuven <br>
+<b>Group:</b> Dynamics in Biological Systems <br>
 <b>Years:</b> 2020-2021
 
 [Github Repo](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics)
