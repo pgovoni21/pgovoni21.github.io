@@ -10,7 +10,9 @@ location: "Berlin, Germany"
 
 [Summer School Program](https://www.scienceofintelligence.de/wp-content/uploads/2024/02/summerschool-program.pdf)
 
-One of 5 invited student talks at a summer school. Mostly conceptual-minded + initial results.
+[Related Project Page](https://pgovoni21.github.io/projects/2022-12-20-ants-task-partitioning-ABM)
+
+One of 5 invited student talks at a summer school. Very preliminary.
 
 <b>Abstract:</b>
 

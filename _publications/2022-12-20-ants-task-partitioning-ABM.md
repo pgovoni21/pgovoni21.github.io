@@ -1,22 +1,18 @@
 ---
-title: "ABM on the Stigmergic Emergence of Task Partitioning in Leaf-Cutting Ants"
-collection: publications
-permalink: /publication/2022-12-20-ants-task-partitioning-ABM
+title: "Evolution of Task Partitioning in Leaf-Cutting Ants"
+collection: projects
+permalink: /projects/2022-12-20-ants-task-partitioning-ABM
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-12-20
 venue: 'Scientific Reports'
 # slidesurl: 'https://github.com/pgovoni21/ants-task-partitioning-ABM'
 paperurl: 'https://www.nature.com/articles/s41598-022-26324-6'
-citation: 'Di Pietro, V., Govoni, P., Chan, K.H. <i>et al</i>. Evolution of self-organised division of labour driven by stigmergy in leaf-cutter ants. <i>Sci Rep</i> <b>12</b>, 21971 (2022). https://doi.org/10.1038/s41598-022-26324-6'
+citation: 'Di Pietro, V., Govoni, P., Chan, K. H., Oliveira, R. C., Wenseleers, T., & van den Berg, P. (2022). Evolution of self-organised division of labour driven by stigmergy in leaf-cutter ants. Scientific Reports, 12(1), 21971. https://doi.org/10.1038/s41598-022-26324-6'
 ---
 
-Project stemming from a modeling course in my MSc program. 
+Project stemming from a modeling course in my MSc program. Agent-based model of the cellular automata variety.
 
-<br/>
-
-[Github Repo](https://github.com/pgovoni21/ants-task-partitioning-ABM)
-
-<br/>
+![title_video](../images/ant_video.gif)
 
 <b>Author:</b> Patrick Govoni & Kin Ho Chan
 
@@ -28,7 +24,9 @@ Project stemming from a modeling course in my MSc program.
 
 <b>Years:</b> 2020-2022
 
-<br/>
+[Github Repo](https://github.com/pgovoni21/ants-task-partitioning-ABM)
+
+<img src="../images/ant_graph.png" width="750"/>
 
 <b>Abstract:</b>
 

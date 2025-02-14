@@ -1,7 +1,7 @@
 ---
-title: "Bistability & Traveling Front Dynamics with Aurora B Kinase"
-collection: publications
-permalink: /publication/2021-07-01-ABKinase-bistability-traveling-front-dynamics
+title: "Bistability & Traveling Front Dynamics in a Kinase-Phosphatase System"
+collection: projects
+permalink: /projects/2021-07-01-ABKinase-bistability-traveling-front-dynamics
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-07-01
 venue: '(not applicable)'
@@ -10,13 +10,9 @@ venue: '(not applicable)'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Unpublished MSc Thesis.
+Unpublished MSc Thesis. Reaction-diffusion-localization dynamical system.
 
-<br/>
-
-[Github Repo](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics)
-
-<br/>
+<img src="../images/ABK_fig.png" width="750"/>
 
 <b>Author:</b> Patrick Govoni
 
@@ -28,7 +24,9 @@ Unpublished MSc Thesis.
 
 <b>Years:</b> 2020-2021
 
-<br/>
+[Github Repo](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics)
+
+![title_video](../images/ABK_video.gif)
 
 <b>Abstract:</b>
 
