@@ -7,12 +7,12 @@ date: 2025-02-13
 venue: 'arxiv'
 # slidesurl: 'https://github.com/pgovoni21/vis-nav-abm'
 paperurl: 'https://arxiv.org/abs/2407.13535'
-citation: 'Govoni, P., & Romanczuk, P. (2024). Visuospatial navigation without distance, prediction, or maps. arXiv preprint arXiv:2407.13535. https://doi.org/10.48550/arXiv.2407.13535'
+# citation: 'Govoni, P., & Romanczuk, P. (2024). Visuospatial navigation without distance, prediction, or maps. arXiv preprint arXiv:2407.13535. https://doi.org/10.48550/arXiv.2407.13535'
 ---
 
 PhD Thesis - Part One. Visual-motor learning of artificial neural networks.
 
-<img src="../images/ABM_flow.png" width="750"/>
+<img src="../images/vis_flow.png" width="750"/>
 
 <b>Author:</b> Patrick Govoni
 

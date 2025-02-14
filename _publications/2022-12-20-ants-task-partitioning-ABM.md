@@ -7,7 +7,7 @@ date: 2022-12-20
 venue: 'Scientific Reports'
 # slidesurl: 'https://github.com/pgovoni21/ants-task-partitioning-ABM'
 paperurl: 'https://www.nature.com/articles/s41598-022-26324-6'
-citation: 'Di Pietro, V., Govoni, P., Chan, K. H., Oliveira, R. C., Wenseleers, T., & van den Berg, P. (2022). Evolution of self-organised division of labour driven by stigmergy in leaf-cutter ants. Scientific Reports, 12(1), 21971. https://doi.org/10.1038/s41598-022-26324-6'
+# citation: 'Di Pietro, V., Govoni, P., Chan, K. H., Oliveira, R. C., Wenseleers, T., & van den Berg, P. (2022). Evolution of self-organised division of labour driven by stigmergy in leaf-cutter ants. Scientific Reports, 12(1), 21971. https://doi.org/10.1038/s41598-022-26324-6'
 ---
 
 Project stemming from a modeling course in my MSc program. Agent-based model of the cellular automata variety.
@@ -26,7 +26,7 @@ Project stemming from a modeling course in my MSc program. Agent-based model of 
 
 [Github Repo](https://github.com/pgovoni21/ants-task-partitioning-ABM)
 
-<img src="../images/ant_graph.png" width="750"/>
+<img src="../images/ant_graph.png" width="500"/>
 
 <b>Abstract:</b>
 
