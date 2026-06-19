@@ -1,5 +1,5 @@
 ---
-title: "Visuospatial Navigation Algorithms"
+title: "Visuospatial Route-Based Navigation"
 collection: projects
 permalink: /projects/2025-02-13-visuospatial-navigation-algorithms
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

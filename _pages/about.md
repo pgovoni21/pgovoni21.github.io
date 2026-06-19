@@ -11,7 +11,7 @@ Thank you for coming, check out my projects below:
 
 <br/>
 
-# [Visuospatial Navigation Algorithms](https://pgovoni21.github.io/projects/2025-02-13-visuospatial-navigation-algorithms)
+# [Visuospatial Route-Based Navigation](https://pgovoni21.github.io/projects/2025-02-13-visuospatial-navigation-algorithms)
 
 <p float="left">
   <img src="../images/trajs_IS.png" width="250" />
