@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="../files/CV.pdf">As pdf</a>
+
 Education
 ======
 * PhD in Theoretical Biology, Humboldt Universität zu Berlin, 2026 (expected)
@@ -17,15 +19,15 @@ Education
 
 [Projects](https://pgovoni21.github.io/projects/)
 ======
-  <ul>{% for post in site.publications reversed %}
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 [Talks](https://pgovoni21.github.io/talks/)
 ======
-  <ul>{% for post in site.talks reversed %}
+  <!-- <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Posters
 ======
@@ -38,4 +40,11 @@ Posters
 * SCIoI & ISAB Summer School, August 2023, Science of Intelligence, Berlin, Germany <br>
 * Social Learning in Complex Systems, 6th ESLR, July 2023, MPI for Human Development, Berlin, Germany <br>
 
-See my [LinkedIn](https://www.linkedin.com/in/patrickgovoni/) for non-academic experience
+Interests Outside Academia
+======
+Cooking, Dancing, Rock Climbing, Hiking, Whistling
+(Casual) Theory Regarding Metaphysics, Personality, Culture, Anthropology, Socio-Political Relational Dynamics
+
+Work Experience Before Academia (2014-2019)
+======
+See my [LinkedIn](https://www.linkedin.com/in/patrickgovoni/) or pdf above
