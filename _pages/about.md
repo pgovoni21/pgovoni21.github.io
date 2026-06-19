@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "welcome to my site"
+title: "Welcome to my site"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-thank you for coming, please make yourself at home
+Thank you for coming, check out my projects below:
 
 <br/>
 

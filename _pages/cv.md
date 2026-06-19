@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,39 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PhD in Theoretical Biology, Humboldt Universität zu Berlin, 2026 (expected)
+* MSc in Biophysics, Biochemistry and Biotechnology, Katholieke Universiteit Leuven, 2021
+* BSc in Chemical Engineering, Rensselaer Polytechnic Institute, 2014
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -52,13 +26,16 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Posters
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* ALife Conference, October 2025, Kyoto, Japan <br>
+* Bernstein Conference on Computational Neuroscience (BCCN), September 2025, Frankfurt, Germany <br>
+* Elsa Neumann Colloquium Natural and Life Sciences, October 2024, Berlin, Germany <br>
+* ALife Conference, July 2024, IT University, Copenhagen, Denmark <br>
+* Computational Cognition Conference (ComCo), October 2023, Universität Osnabrück, Osnabrück, Germany <br>
+* Bernstein Conference on Computational Neuroscience (BCCN), September 2023, Berlin, Germany <br>
+* SCIoI & ISAB Summer School, August 2023, Science of Intelligence, Berlin, Germany <br>
+* Social Learning in Complex Systems, 6th ESLR, July 2023, MPI for Human Development, Berlin, Germany <br>
+
+See my [LinkedIn](https://www.linkedin.com/in/patrickgovoni/) for non-academic experience

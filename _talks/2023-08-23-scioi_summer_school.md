@@ -1,17 +1,17 @@
 ---
 title: "Foraging as Visual Navigation - Individual vs. Social Information"
 collection: talks
-type: "Spotlight Talk"
+# type: "Spotlight Talk"
 permalink: /talks/2023-08-23-scioi_summer_school
-venue: "Science of Intelligence (Cluster of Excellence)"
+venue: "SCIoI & ISAB Summer School 2023"
 date: 2023-08-23
 location: "Berlin, Germany"
 ---
 
-[Summer School Program](https://www.scienceofintelligence.de/wp-content/uploads/2024/02/summerschool-program.pdf) <br>
-[Related Project Page](https://pgovoni21.github.io/projects/2022-12-20-ants-task-partitioning-ABM)
+[Summer School Program](https://www.scienceofintelligence.de/summerschool) <br>
+[Related Project Page](https://pgovoni21.github.io/projects/2025-02-13-visuospatial-navigation-algorithms) <br>
 
-One of 5 invited student talks at a summer school. Very preliminary.
+One of 5 invited student talks at a summer school. Very preliminary work in my doctorate.
 
 <b>Abstract:</b>
 
