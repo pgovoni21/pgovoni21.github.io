@@ -15,13 +15,13 @@ Education
 * MSc in Biophysics, Biochemistry and Biotechnology, Katholieke Universiteit Leuven, 2021
 * BSc in Chemical Engineering, Rensselaer Polytechnic Institute, 2014
 
-Publications
+[Projects](https://pgovoni21.github.io/projects/)
 ======
-  <ul>{% for post in site.projects reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+[Talks](https://pgovoni21.github.io/talks/)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
