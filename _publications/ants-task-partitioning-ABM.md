@@ -1,5 +1,5 @@
 ---
-title: "Evolution of Task Partitioning in Leaf-Cutting Ants"
+title: "Evolution of Task Partitioning in Leaf-Cutter Ants"
 collection: projects
 permalink: /projects/ants-task-partitioning-ABM
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'

@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# [Social-Spatial Tradeoff in Visual Navigation](https://pgovoni21.github.io/projects/social-nav)
-
-<img src="../images/socnav_tradeoff-embodiment.png" width="750" />
-
 <br/>
 
 # [Visuospatial Route-Based Navigation](https://pgovoni21.github.io/projects/visual-route-nav)
@@ -18,6 +14,12 @@ redirect_from:
 <img src="../images/trajs_IS.png" width="250" />
 <img src="../images/trajs_BD.png" width="250" />
 <img src="../images/trajs_DP.png" width="250" />
+
+<br/>
+
+# [Spatial-Social Tradeoff in Visual Navigation](https://pgovoni21.github.io/projects/social-nav)
+
+<img src="../images/socnav_tradeoff-embodiment.png" width="750" />
 
 <br/>
 
@@ -29,7 +31,7 @@ redirect_from:
 
 <br/>
 
-# [Evolution of Task-Partitioning](https://pgovoni21.github.io/projects/ants-task-partitioning-ABM)
+# [Evolution of Task-Partitioning in Leaf-Cutter Ants](https://pgovoni21.github.io/projects/ants-task-partitioning-ABM)
 
 <img src="../images/ant_graph.png" width="750"/>
 

@@ -39,6 +39,8 @@ Navigation is believed to be controlled by at least two partially dissociable sy
   <img src="../images/trajs_DP.png" width="250" />
 </p>
 
+<b>Relevant Links:</b>
+
 [Talk @ ScioI Summer School 2023](https://pgovoni21.github.io/talks/2023-08-23-scioi_summer_school) <br>
 [Talk @ ALife 2024](https://pgovoni21.github.io/talks/2024-07-24-alife) <br>
 [Extended Abstract @ ALife 2024](https://direct.mit.edu/isal/proceedings/isal2024/36/40/123487) <br>
