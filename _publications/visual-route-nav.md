@@ -1,7 +1,7 @@
 ---
-title: "Visuospatial Route-Based Navigation"
+title: "Visual Route-Based Navigation"
 collection: projects
-permalink: /projects/2025-02-13-visuospatial-navigation-algorithms
+permalink: /projects/visual-route-nav
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-02-13
 venue: 'arxiv'
@@ -42,5 +42,5 @@ Navigation is believed to be controlled by at least two partially dissociable sy
 [Talk @ ScioI Summer School 2023](https://pgovoni21.github.io/talks/2023-08-23-scioi_summer_school) <br>
 [Talk @ ALife 2024](https://pgovoni21.github.io/talks/2024-07-24-alife) <br>
 [Extended Abstract @ ALife 2024](https://direct.mit.edu/isal/proceedings/isal2024/36/40/123487) <br>
-[Talk @ EI 2025](https://pgovoni21.github.io/talks/2025-04-02-EI25) <br>
-[Talk @ EI 2026](https://pgovoni21.github.io/talks/2026-03-19-EI26) <br>
+[Talk @ EI 2025](https://pgovoni21.github.io/talks/2025-04-02-EI) <br>
+[Talk @ EI 2026](https://pgovoni21.github.io/talks/2026-03-19-EI) <br>

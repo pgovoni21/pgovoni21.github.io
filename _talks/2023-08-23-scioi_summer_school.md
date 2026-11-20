@@ -9,7 +9,7 @@ location: "Berlin, Germany"
 ---
 
 [Summer School Program](https://www.scienceofintelligence.de/summerschool) <br>
-[Related Project Page](https://pgovoni21.github.io/projects/2025-02-13-visuospatial-navigation-algorithms) <br>
+[Related Project Page](https://pgovoni21.github.io/projects/visual-route-nav) <br>
 
 One of 5 invited student talks at a summer school. Very preliminary work in my doctorate.
 

@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Task Partitioning in Leaf-Cutting Ants"
 collection: projects
-permalink: /projects/2022-12-20-ants-task-partitioning-ABM
+permalink: /projects/ants-task-partitioning-ABM
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-12-20
 venue: 'Scientific Reports'
@@ -15,8 +15,8 @@ Agent-based model of the cellular automata variety.
 
 ![title_video](../images/ant_video.gif)
 
-<b>Model Authors:</b> Patrick Govoni & Kin Ho Chan <br>
-<b>Supervisor:</b> Piet Van Den Berg & Prof. Tom Wenseleers <br>
+<b>Authors:</b> Patrick Govoni, Viviana Di Pietro, Kin Ho Chan, Ricardo Caliari Oliveira <br>
+<b>Supervisors:</b> Piet Van Den Berg & Prof. Tom Wenseleers <br>
 <b>Affiliation:</b> Department of Biology, KU Leuven <br>
 <b>Group:</b> [Lab of Socioecology & Social Evolution](https://bio.kuleuven.be/eeb/tw) <br>
 <b>Years:</b> 2020-2022

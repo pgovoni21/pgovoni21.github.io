@@ -1,7 +1,7 @@
 ---
 title: "Bistability & Traveling Front Dynamics in a Kinase-Phosphatase System"
 collection: projects
-permalink: /projects/2021-07-01-ABKinase-bistability-traveling-front-dynamics
+permalink: /projects/ABK-bistability-trav-front
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2021-07-01
 venue: ''

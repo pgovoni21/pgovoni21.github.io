@@ -7,26 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for coming, check out my projects below:
+# [Social-Spatial Tradeoff in Visual Navigation](https://pgovoni21.github.io/projects/social-nav)
+
+<img src="../images/socnav_tradeoff-embodiment.png" width="750" />
 
 <br/>
 
-# [Visuospatial Route-Based Navigation](https://pgovoni21.github.io/projects/2025-02-13-visuospatial-navigation-algorithms)
+# [Visuospatial Route-Based Navigation](https://pgovoni21.github.io/projects/visual-route-nav)
 
-<p float="left">
-  <img src="../images/trajs_IS.png" width="250" />
-  <img src="../images/trajs_BD.png" width="250" />
-  <img src="../images/trajs_DP.png" width="250" />
-</p>
+<img src="../images/trajs_IS.png" width="250" />
+<img src="../images/trajs_BD.png" width="250" />
+<img src="../images/trajs_DP.png" width="250" />
 
 <br/>
 
-# [Evolution of Task-Partitioning](https://pgovoni21.github.io/projects/2022-12-20-ants-task-partitioning-ABM)
+# [From Optimal Policies to Individual Differences: Rethinking Reinforcement Learning for Biology](https://pgovoni21.github.io/projects/position-indiv-diff)
+
+<img src="../images/pos_1.png" width="750" />
+<img src="../images/pos_2.png" width="750" />
+<img src="../images/pos_3.png" width="750" />
+
+<br/>
+
+# [Evolution of Task-Partitioning](https://pgovoni21.github.io/projects/ants-task-partitioning-ABM)
 
 <img src="../images/ant_graph.png" width="750"/>
 
 <br/>
 
-# [Bistable Traveling Fronts](https://pgovoni21.github.io/projects/2021-07-01-ABKinase-bistability-traveling-front-dynamics)
+# [Bistable Traveling Fronts](https://pgovoni21.github.io/projects/ABK-bistability-trav-front)
 
 <img src="../images/ABK_fig.png" width="750"/>
