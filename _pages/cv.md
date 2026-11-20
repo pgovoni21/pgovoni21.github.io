@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="../files/CV-p1.pdf" width="1000"/>
+<img src="../images/CV-p1.png" width="1000"/>
 
-<img src="../files/CV-p2.pdf" width="1000"/>
+<img src="../images/CV-p2.png" width="1000"/>

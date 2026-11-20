@@ -3,7 +3,7 @@ title: "Spatial-Social Tradeoff in Visual Navigation"
 collection: projects
 permalink: /projects/social-nav
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-02-13
+date: 2026-02-13
 venue: 'arxiv'
 # slidesurl: 'https://github.com/pgovoni21/vis-nav-abm'
 paperurl: 'https://arxiv.org/abs/2607.07460'

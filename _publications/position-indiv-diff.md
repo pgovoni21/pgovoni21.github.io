@@ -3,8 +3,8 @@ title: "From Optimal Policies to Individual Differences: Rethinking Reinforcemen
 collection: projects
 permalink: /projects/position-indiv-diff
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-02-13
-venue: 'From Animals to Animats 18: International Conference on Simulation of Adaptive Behavior (SAB) 2026'
+date: 2026-02-13
+venue: 'International Conference on Simulation of Adaptive Behavior (SAB) 2026'
 # slidesurl: 'https://github.com/pgovoni21/vis-nav-abm'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-39953-3_21'
 # citation: 'Govoni, P., & Romanczuk, P. (2024). Visuospatial navigation without distance, prediction, or maps. arXiv preprint arXiv:2407.13535. https://doi.org/10.48550/arXiv.2407.13535'
@@ -14,7 +14,11 @@ Group collaboration position paper. <br>
 On an underreported/understudied gap between reinforcement learning and biology.
 
 <b>Authors:</b> Patrick Govoni<sup>1</sup>, Palina Bartashevich<sup>2,3</sup>, Clémence Bergerot<sup>1</sup>, Valerii Chirkov<sup>1,3</sup>, Valentin Lecheval<sup>1,3</sup>, Pawel Romanczuk<sup>1,3,4</sup> <br>
-<b>Affiliations:</b> <i>1</i> Institute for Theoretical Biology, Humboldt Universität zu Berlin, <i>2</i> Faculty of Life Sciences, Thaer-Institute for Agricultural and Horticultural Sciences, Humboldt Universität zu Berlin, <i>3</i> Science of Intelligence, Cluster of Excellence, <i>4</i> Bernstein Center for Computational Neuroscience <br>
+<b>Affiliations:</b>
+<i>1</i> Institute for Theoretical Biology, Humboldt Universität zu Berlin,
+<i>2</i> Faculty of Life Sciences, Thaer-Institute for Agricultural and Horticultural Sciences, Humboldt Universität zu Berlin,
+<i>3</i> Science of Intelligence, Cluster of Excellence,
+<i>4</i> Bernstein Center for Computational Neuroscience <br>
 <b>Year:</b> 2026
 
 [Paper](https://link.springer.com/chapter/10.1007/978-3-032-39953-3_21) <br>
