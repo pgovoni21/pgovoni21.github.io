@@ -1801,12 +1801,12 @@ $.magnificPopup.registerModule('gallery', {
 		},
 		next: function() {
 			mfp.direction = true;
-			mfp.index = _getLoopedId(mfp.index + 1);
+			mfp.index = _getLoopedId(mfp.index - 1);
 			mfp.updateItemHTML();
 		},
 		prev: function() {
 			mfp.direction = false;
-			mfp.index = _getLoopedId(mfp.index - 1);
+			mfp.index = _getLoopedId(mfp.index + 1);
 			mfp.updateItemHTML();
 		},
 		goTo: function(newIndex) {
